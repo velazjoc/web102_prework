@@ -24,14 +24,14 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/gallery/walkthrough-KSnzo9y' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="//imgur.com/a/KSnzo9y" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
 
 ## Notes
 
-One of the main challenges I had was ensuring the my Javascript syntex as correct throughout the code. Primarly formatting strings and using template literals plus ternary operations, if I had incorrectly made a typo, the rest of the code would break and would not show as a result.  Additionally, making sure important data like the number of backers and total funds raised updated  using filter() and reduce() was difficult to verify. It wasn’t just about getting the right number, it was about making sure that it could reflect reality even after continuous updates. I definitely refreshed my memory and also learned something new in how to make JavaScript and the DOM work together smoothly.
+One of the main challenges I had was ensuring the my Javascript syntex as correct throughout the code. Primarly formatting strings and using template literals plus ternary operations, if I had incorrectly made a typo, the rest of the code would break and would not show as a result. Additionally, making sure important data like the number of backers and total funds raised updated using filter() and reduce() was difficult to verify. It wasn’t just about getting the right number, it was about making sure that it could reflect reality even after continuous updates. I definitely refreshed my memory and also learned something new in how to make JavaScript and the DOM work together smoothly. As I was excited about the opportunity and wanted to ensure I finished the requirements before the extended deadline, I kept my bonus features simple but demonstrative of front-end abilities.
 
 ## License
 
