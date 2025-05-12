@@ -10,21 +10,21 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] Clicking the header allows one to easily navigate to the games section without scrolling down.
-* [ ] The colors of the site were changed to match a cohesive blue and white theme of the sea.
+* [x] Clicking the header allows one to easily navigate to the games section without scrolling down.
+* [x] The colors of the site were changed to match a cohesive blue and white theme of the sea.
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+[Here's a walkthrough of implemented features][https://i.imgur.com/Q3ZvIwQ.mp4]
 
-<img src="//imgur.com/a/KSnzo9y" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://i.imgur.com/Q3ZvIwQ.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
